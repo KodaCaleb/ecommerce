@@ -33,10 +33,6 @@ Then, run `npm run seed` to seed the database. Finally, run `npm start` to start
 
 ## Usage 
 
-[![Video Demonstration](https://drive.google.com/file/d/1ghgeRFQeY_JiR8Kkte2fG4D63XjSBgBa/view)]
-
-
-
 
 Video demonstration: https://drive.google.com/file/d/1ghgeRFQeY_JiR8Kkte2fG4D63XjSBgBa/view
 
