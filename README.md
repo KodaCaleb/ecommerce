@@ -5,7 +5,8 @@
 
   ## Description
 
-    This is a backend application for an e-commerce site. It uses Express.js API and Sequelize to interact with a MySQL database. The database includes tables for products, categories, tags, and product tags. The application creates the database using mySQL with models and associations. It also has API routes to perform RESTful CRUD operations using sequelize models to interact with the database. The application is invoked by using the command line and entering node server.js. The user can then use Postman or Insomnia to test the routes.
+This is a backend application for an e-commerce site. It uses Express.js API and Sequelize to interact with a MySQL database.
+The database includes tables for products, categories, tags, and product tags. The application creates the database using mySQL with models and associations. It also has API routes to perform RESTful CRUD operations using sequelize models to interact with the database. The application is invoked by using the command line and entering node server.js. The user can then use Postman or Insomnia to test the routes.
   
 
 
@@ -32,7 +33,7 @@ Then, run `npm run seed` to seed the database. Finally, run `npm start` to start
 
 ## Usage 
 
-[![Video Demonstration](https://drive.google.com/file/d/1ghgeRFQeY_JiR8Kkte2fG4D63XjSBgBa/view)](https://drive.google.com/file/d/1ghgeRFQeY_JiR8Kkte2fG4D63XjSBgBa/view)
+[![Video Demonstration](https://drive.google.com/file/d/1ghgeRFQeY_JiR8Kkte2fG4D63XjSBgBa/view)]
 
 
 
